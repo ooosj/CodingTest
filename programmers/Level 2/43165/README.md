@@ -1,5 +1,7 @@
 https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=python3
 
+## 타겟 넘버
+
 ![Alt text](image.png)
 
 ### 해결방법
