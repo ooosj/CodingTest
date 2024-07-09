@@ -14,7 +14,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=python3
 
 4. completion에 포함된 요소를 hash 함수를 이용하여 키 값 추출 후 sumdict에서 빼줌
 
-5. sumdict의 키 값이 남은 요소의 키 값이므로 dict[sumdict] 출력
+5. sumdict의 값이 남은 요소의 키 값이므로 dict[sumdict] 출력
 
 <br>
 해싱 문제는 dictionary를 이용해서 푸는 것이 효율성 측면에서 유리하다.
